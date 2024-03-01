@@ -14,3 +14,6 @@ This project is a simple Spotify clone built using HTML, CSS, and JavaScript. It
 1. Clone the repository:
 2. Open `index.html` in your web browser.
 3. Click on the play button next to a song to start playing it.
+
+## Try it out
+https://spotify-clone158.netlify.app/
